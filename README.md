@@ -51,6 +51,19 @@ Key components include:
 * Explore hybrid converter topologies for improved efficiency and reduced losses.
 * Deploy models for real-time hardware-in-the-loop testing in wind farms.
 
+## Citation
+
+If you use this work, please cite:
+
+```bibtex
+@software{Power-electronic-convertors-in-wind-generators,
+  author = {Shubhan Mital},
+  title = {Power electronic convertors in wind generators},
+  year = {2025},
+  url = https://github.com/Shubhanflash22/Power-electronic-convertors-in-wind-generators.git
+}
+```
+
 ## License
 
 This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
